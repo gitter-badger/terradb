@@ -7,7 +7,7 @@ A centralized database and REST API for Terraform data.
 [![Gitter](https://img.shields.io/gitter/room/camptocamp/terradb.svg)](https://gitter.im/camptocamp/terradb)
 [![Build Status](https://travis-ci.org/camptocamp/terradb.svg?branch=master)](https://travis-ci.org/camptocamp/terradb)
 [![Coverage Status](https://coveralls.io/repos/github/camptocamp/terradb/badge.svg?branch=master)](https://coveralls.io/github/camptocamp/terradb?branch=master)
-[![By Camptocamp](https://img.shields.io/badge/by-camptocamp-fb7047.svg)](http://www.camptocamp.com)
+[![By Camptocamp](https://img.shields.io/badge/by-camptocamp-fb7047.svg)](http://www.camptocamp.com) [![Join the chat at https://gitter.im/camptocamp/terradb](https://badges.gitter.im/camptocamp/terradb.svg)](https://gitter.im/camptocamp/terradb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ## What is it?
